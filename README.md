@@ -1,31 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Los Angeles Crime Report Analysis</title>
-</head>
-<body>
+Project : Los Angeles Crime Report Analysis
+About data:
+This dataset has been taken from the data.gov .This dataset reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. This data is as accurate as the data in the database.
 
-    <h1>Los Angeles Crime Report Analysis</h1>
-    
-    <h2>About the Data</h2>
-    <p>This dataset has been taken from data.gov and reflects incidents of crime in the City of Los Angeles dating back to 2020. The data is transcribed from original crime reports that are typed on paper, and therefore, there may be some inaccuracies. However, it is as accurate as the data in the database.</p>
-    
-    <h2>Problem Statement</h2>
-    <p>The goal of this analysis is to provide suggestions to the people living in Los Angeles on how they can stay safe.</p>
-    
-    <h2>Questions</h2>
-    <ol>
-        <li>In which area has the most crimes?</li>
-        <li>At which time do most crimes occur?</li>
-        <li>Which type of crime occurs most?</li>
-        <li>Do men and women have an equal share of crime?</li>
-        <li>What age group of people become victims of crime mostly?</li>
-    </ol>
-    
-    <h2>Result/Suggestion</h2>
-    <p>According to the analysis, people aged 28-31 should avoid visiting Central, 77th Street, Pacific, Southwest, and Hollywood areas from 5 to 8 PM and 12 Noon, especially when traveling in vehicles, as these are hot spots for crimes to happen. There are slightly more chances of men becoming victims of crime than women.</p>
-    
-</body>
-</html>
+Problem Statement:
+Give Suggestion to the people living in Los Angeles how can they be safe.
+
+Questions:
+1. In which area has the most crimes ?
+2. At which time most crime occur ?
+3. Which type of crime occur most ?
+4. Do men and women got equal share of crime ?
+5. What age group people become victims of crime mostly  ?
+
+Result/Suggestion:
+According to the analysis, people of  age-group from 28-31 should avoid visiting to Central , 77th Street, Pacific , Southwest,Hollywood from 5 to 8 PM and 12 Noon especially in vehicles. These are hot spots for crimes to happen. There are slight more chance of men becoming victim of crime then women.
